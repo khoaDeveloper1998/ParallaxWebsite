@@ -1,0 +1,23 @@
+{
+  "name": "parallaxwebsite",
+  "version": "1.0.0",
+  "description": "Type: Front-end\r Created: Benjamin Vo 5/2021 \r Project: Parallax Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khoaDeveloper1998/ParallaxWebsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khoaDeveloper1998/ParallaxWebsite/issues"
+  },
+  "homepage": "https://github.com/khoaDeveloper1998/ParallaxWebsite#readme",
+  "dependencies": {
+    "parcel": "^2.0.0-beta.2",
+    "scss": "^0.2.4"
+  }
+}
